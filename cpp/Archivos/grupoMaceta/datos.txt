@@ -1,0 +1,13 @@
+Informacion del cliente:
+----------------------
+Nombre: Juan
+Edad: 30
+Direccion: Calle 123
+Teléfono: 555-1234
+
+Informacion de la maceta:
+-----------------------
+Material: Arcilla
+Diseno: Clásico
+Color: Terracota
+Precio: $19.99

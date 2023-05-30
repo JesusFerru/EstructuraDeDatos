@@ -1,0 +1,6 @@
+Informacion del cliente:
+----------------------
+Nombre: Leandro
+Edad: 18
+Direccion: Av_santos_dumont
+Telefono: 70804050
